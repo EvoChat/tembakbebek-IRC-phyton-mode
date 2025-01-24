@@ -1,0 +1,98 @@
+[duckhunt]
+server = irc.evochat.id
+port = 6667
+botname = DuckHunt
+botpass = 0
+duckchan = #evo
+botmaster = buayadarat
+admin = 0
+ignore = 0
+maxducks = 6
+spawntime = 1000
+flytime = 800
+duckexp = 15
+duckfear = 50
+duckgold = 40
+friendrate = 71
+floodcheck = 24,25
+maint = 24
+maint_time = 0
+serverssl = off
+
+[rules]
+gunricochet = 5
+thebushes = 15
+gunconf = on
+infammo = off
+bang = on
+bef = on
+
+[flood_protection]
+!bang = True
+!duckstats = True
+!shop = True
+!bef = True
+!reload = True
+!bomb = True
+!tshot = True
+!mshot = True
+!help = True
+!wshot = True
+!dshot = True
+!about = True
+!commands = True
+!topduck = True
+!reloaf = True
+!bread = True
+!rules = True
+!swim = True
+\x01version\x01 = True
+\x01finger\x01 = True
+\x01ping = True
+version = True
+finger = True
+ping = True
+
+[top_shot]
+daily = 0
+weekly = 0
+monthly = 0
+totalshot = 0
+t_day = 1
+t_week = 1
+t_month = 1
+
+[bedazzled]
+
+[soggy]
+
+[sabotage]
+
+[expl_ammo]
+
+[gun_grease]
+
+[trigger_lock]
+
+[sunglasses]
+
+[silencer]
+
+[lucky_charm]
+
+[accident_insurance]
+
+[rain_coat]
+
+[duck_bomb]
+
+[bread_lock]
+
+[popcorn]
+
+[bombed]
+
+[duck_jam]
+
+[ducks]
+cache = 0
